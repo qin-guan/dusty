@@ -1,0 +1,7 @@
+# Cargo
+target
+debug
+*.swp
+
+# rustfmt
+*.rs.bk
